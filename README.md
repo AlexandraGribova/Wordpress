@@ -1,1 +1,1 @@
-# WordpressNews
+# Wordpress
